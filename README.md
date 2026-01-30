@@ -3,21 +3,8 @@
 Technology Stack: Next.js 14, TypeScript, Tailwind CSS, PostgreSQL, NextAuth.js
 </pre>
 ---
-```
-/app
-├── /lib          # Utility functions and data fetching
-├── /ui           # UI components (cards, tables, forms)
-├── /dashboard    # Dashboard routes and pages
-└── layout.tsx    # Root layout
 
-/public           # Static assets (images, etc.)
-Configuration Files
-next.config.ts - Next.js configuration
-tailwind.config.ts - Tailwind CSS configuration
-postcss.config.js - PostCSS configuration
-Styling Setup
-Global CSS
-```
+### Next.js, React, React-DOM, TypeScript, Tailwind CSS, Autoprefixer, PostCSS, Heroicons, Tailwind CSS Forms, Postgres, Zod, Next-Auth, Bcrypt, clsx, use-debounce, Turbopack, PNPM.
 ---
 # Project Output Images
 
