@@ -8,7 +8,7 @@ Technology Stack: Next.js 14, TypeScript, Tailwind CSS, PostgreSQL, NextAuth.js
 ---
 # Project Output Images
 
-<center>
+<p align="center">
   <img src="https://github.com/hsj71/Financial-Dashboard/raw/main/Screenshot%20(1067).png" width="60%">
   <img src="https://github.com/hsj71/Financial-Dashboard/raw/main/Screenshot%20(1068).png" width="60%">
   <img src="https://github.com/hsj71/Financial-Dashboard/raw/main/Screenshot%20(1069).png" width="60%">
@@ -23,4 +23,5 @@ Technology Stack: Next.js 14, TypeScript, Tailwind CSS, PostgreSQL, NextAuth.js
   <img src="https://github.com/hsj71/Financial-Dashboard/raw/main/Screenshot%20(1078).png" width="60%">
   <img src="https://github.com/hsj71/Financial-Dashboard/raw/main/Screenshot%20(1079).png" width="60%">
   <img src="https://github.com/hsj71/Financial-Dashboard/raw/main/Screenshot%20(1080).png" width="60%">
-</center>
+</p>
+---
