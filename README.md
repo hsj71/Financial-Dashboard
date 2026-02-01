@@ -6,7 +6,8 @@ Technology Stack:
 ```
 ---
 # Deployed at Versel-Nova
-## https://nextjs-dashboard-three-gamma-13.vercel.app/
+##New [nextjs-dashboard-3101.vercel.app](https://nextjs-dashboard-3101.vercel.app/)
+##Old https://nextjs-dashboard-three-gamma-13.vercel.app/
 ---
 ---
 # Project Output Images
