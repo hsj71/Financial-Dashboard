@@ -1,10 +1,13 @@
 # Financial Dashboard Project Documentation
-<pre>
-Technology Stack: Next.js 14, TypeScript, Tailwind CSS, PostgreSQL, NextAuth.js
-</pre>
----
 
-### Next.js, React, React-DOM, TypeScript, Tailwind CSS, Autoprefixer, PostCSS, Heroicons, Tailwind CSS Forms, Postgres, Zod, Next-Auth, Bcrypt, clsx, use-debounce, Turbopack, PNPM.
+Technology Stack: 
+```
+: Next.js, React, React-DOM, TypeScript, Tailwind CSS, Autoprefixer, PostCSS, Heroicons, Tailwind CSS Forms, Postgres, Zod, Next-Auth, Bcrypt, clsx, use-debounce, Turbopack, PNPM:
+```
+---
+# Deployed at Versel-Nova
+## https://nextjs-dashboard-three-gamma-13.vercel.app/
+---
 ---
 # Project Output Images
 
