@@ -16,7 +16,7 @@ user@nextmail.com
 
 ### Password:
 ```
-$2b$10$Pwa6iJ20eIaZU/ZxECVnQebRnPbH7Tx74zp8UYaD3myVWBVLWMMJq
+123456
 ```
 ---
 ---
