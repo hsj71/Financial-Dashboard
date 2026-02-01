@@ -6,8 +6,18 @@ Technology Stack:
 ```
 ---
 # Deployed at Versel-Nova
-## New [nextjs-dashboard-3101.vercel.app](https://nextjs-dashboard-3101.vercel.app/)
-## Old https://nextjs-dashboard-three-gamma-13.vercel.app/
+## [nextjs-dashboard-3101.vercel.app](https://nextjs-dashboard-3101.vercel.app/)
+---
+## Use this for App 
+### Email: 
+```
+user@nextmail.com
+```
+
+### Password:
+```
+$2b$10$Pwa6iJ20eIaZU/ZxECVnQebRnPbH7Tx74zp8UYaD3myVWBVLWMMJq
+```
 ---
 ---
 # Project Output Images
